@@ -5,7 +5,7 @@
 # ALFA
 ## 🤖 Ai agent bridging on-chain data, social insights and deep research
 
-> ??? 
+> ca: 55S3GJvdfAWmc6YqjVjVFJAKxGLhQsRcBH6B3Kexpump
 
 [![Twitter Follow](https://img.shields.io/badge/Follow%20on%20X-%23087799?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Alfanomic)
 
